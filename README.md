@@ -5,7 +5,7 @@ This project is an automated data pipeline designed to "hunt" for MedTech indust
 
 ## FEATURES
 * ### Automated Scaping:
-  Uses Python to aggregate news content and regulatory updates from various MedTech sources.
+Uses Python to aggregate news content and regulatory updates from various MedTech sources.
 * ### LLM-Powered Extraction:
   Integrates GPT-4/Gemini to extract specific entities such as Company Name, Device Type, and FDA approval status.
 * ### Data Quality Validation:
